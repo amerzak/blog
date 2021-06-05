@@ -4,5 +4,4 @@
 
 layout: home
 ---
-# Hello world!
-[Home](https://www.techtech.cf)
+[Home](https://www.teachtech.cf)
