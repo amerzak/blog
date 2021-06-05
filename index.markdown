@@ -4,4 +4,4 @@
 
 layout: home
 ---
-[Home](https://www.teachtech.cf)
+[Home](http://www.teachtech.cf)
